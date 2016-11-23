@@ -1,0 +1,29 @@
+2016-10-07 08:59:58,021 [main] INFO  :27 - Inicio ejecución de Test WS
+2016-10-07 08:59:58,023 [main] INFO  :28 - /home/jmruiz/Espacio de desarrollo/eclipse_jee_mars_1_java/test
+2016-10-07 08:59:58,683 [main] WARN  JavaUtils:1308 - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-07 09:00:00,055 [main] ERROR :86 - Exception (Message): ; nested exception is: 
+	org.xml.sax.SAXException: Processing instructions are not allowed within SOAP messages
+2016-10-07 10:59:33,470 [main] INFO  :27 - Inicio ejecución de Test WS
+2016-10-07 10:59:33,471 [main] INFO  :28 - /home/jmruiz/Espacio de desarrollo/eclipse_jee_mars_1_java/test
+2016-10-07 10:59:33,986 [main] WARN  JavaUtils:1308 - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-07 10:59:35,811 [main] ERROR :86 - Exception (Message): ; nested exception is: 
+	org.xml.sax.SAXException: Processing instructions are not allowed within SOAP messages
+2016-10-07 11:18:40,113 [main] INFO  :27 - Inicio ejecución de Test WS
+2016-10-07 11:18:40,116 [main] INFO  :28 - /home/jmruiz/Espacio de desarrollo/eclipse_jee_mars_1_java/test
+2016-10-07 11:18:40,642 [main] WARN  JavaUtils:1308 - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-07 11:18:42,590 [main] INFO  :68 - Respuesta WS Test: "OK - Viernes, 07 de octubre de 2016, 11:18"
+2016-10-07 11:18:42,986 [main] ERROR :86 - Exception (Message): Procedure 'autenticarObjCifrado' not present
+2016-10-07 11:20:35,144 [main] INFO  :27 - Inicio ejecución de Test WS
+2016-10-07 11:20:35,145 [main] INFO  :28 - /home/jmruiz/Espacio de desarrollo/eclipse_jee_mars_1_java/test
+2016-10-07 11:20:35,634 [main] WARN  JavaUtils:1308 - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-07 11:20:37,347 [main] INFO  :68 - Respuesta WS Test: "OK - Viernes, 07 de octubre de 2016, 11:20"
+2016-10-07 11:20:37,690 [main] ERROR :78 - ERROR de autenticación con WS
+2016-10-07 11:20:37,690 [main] ERROR :83 - ERROR, no se inició el proceso de carga de datos.
+2016-10-07 11:28:04,503 [main] INFO  :27 - Inicio ejecución de Test WS
+2016-10-07 11:28:04,509 [main] INFO  :28 - /home/jmruiz/Espacio de desarrollo/eclipse_jee_mars_1_java/test
+2016-10-07 11:28:05,014 [main] WARN  JavaUtils:1308 - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-07 11:28:06,758 [main] INFO  :68 - Respuesta WS Test: "OK - Viernes, 07 de octubre de 2016, 11:28"
+2016-10-07 11:28:07,085 [main] INFO  :74 - Autenticación WS satisfactoria
+2016-10-07 11:28:07,379 [main] INFO  :75 - Respuesta WS Test autenticado: "OK - Viernes, 07 de octubre de 2016, 11:28"
+2016-10-07 11:28:07,379 [main] INFO  :92 - Iniciando procedimiento de cualquier tipo de proceso que quieras hacer con OpenHR.
+2016-10-07 11:28:07,379 [main] INFO  :96 - Procedimiento finalizado correctamente.
